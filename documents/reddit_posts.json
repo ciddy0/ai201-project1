@@ -1,0 +1,465 @@
+[
+  {
+    "source_url": "https://www.reddit.com/r/CSULB/comments/1o7k69s/csulb_students_which_computer_science_professors/",
+    "post": {
+      "title": "CSULB students:  Which Computer Science professors do you recommend or not recommend",
+      "author": "IcyInstruction6696",
+      "selftext": "I’m trying to plan my next semester and wanted to hear people’s experiences with CS professors at CSULB.\n\nHow’s Professor Ehsan Yaghmaei? Would you recommend him or not?\n\nAlso open to hearing which professors you think are good or bad for core CS classes in general (CECS 448, 328, 326, etc.). Thanks!",
+      "score": 2,
+      "created_utc": 1760555431.0
+    },
+    "comments": [
+      {
+        "author": "momowithgun",
+        "body": "S tier: Terrell, Winter, Moon\n\nA tier: Hailu Xu, Goldstein, Ebert, Jurgenson, Sayadi\n\nB tier: Gold, Phuong Nguyen, Murgolo, Lackpour\n\nC tier: Nachawati\n\nD tier: Ghaforyfard (for CS), Qudrat\n\nF tier: Brown, Link, Uuh\n\nI transferred, so no strong thoughts on lower div profs, though I hear very good things about Kate Nguyen and Jelena Trajkovic. Murg and Lackpour are in B bc their 343 and 361 respectively are very light work.",
+        "score": 5,
+        "created_utc": 1760837345.0,
+        "depth": 0
+      },
+      {
+        "author": "IcyInstruction6696",
+        "body": "How is Ehsan Yaghmaei?",
+        "score": 1,
+        "created_utc": 1760936754.0,
+        "depth": 1
+      },
+      {
+        "author": "momowithgun",
+        "body": "My friends do not like him lol. They said he’s confusing, doesn’t post clear instructions, and is spontaneous… so if you’re not in class you’re cooked, and even if not the course is still wack",
+        "score": 2,
+        "created_utc": 1760994107.0,
+        "depth": 2
+      },
+      {
+        "author": "momowithgun",
+        "body": "No idea! Never had 'em. Let me ask some friends, I think I know some people who have.",
+        "score": 1,
+        "created_utc": 1760939363.0,
+        "depth": 2
+      },
+      {
+        "author": "dzambrano-dev",
+        "body": "Ghaforyfard does NOT deserve to be below Nachawati. Personally, I'd place her in B teir. She gives a very generous curve, and her lecture style (no slides) are very informative and interactive.",
+        "score": 1,
+        "created_utc": 1769033488.0,
+        "depth": 1
+      },
+      {
+        "author": "momowithgun",
+        "body": "I think I just had her on a very off semester. She seemed constantly stressed, made significant mistakes in nearly every lecture, and even had errors in her exam keys (which initially reduced my scores by an entire letter grade until I snuck pictures of the exams to confirm the correct answers on my own and convinced her to take a look). My friends have mentioned they liked her for 225. YMMV, I guess\n\nThe no-slides format is a mixed bag. It’s great for people in attendance if it’s done well, but not everyone can make it to every lecture, and if there are repeated mistakes, it gets messy. I pretty much ended up teaching myself the content and posting my own notes for the class, which a lot of people said they preferred to the prof’s notes.\n\nGenerous curve is a fair point. In a perfect world, I’d like if the content was well-taught and the exams well-tuned so no curve is necessary. IMO a &gt;= 90% was pretty doable for 225.",
+        "score": 1,
+        "created_utc": 1769036591.0,
+        "depth": 2
+      },
+      {
+        "author": "momowithgun",
+        "body": "I would also add Fei Hoffman to D tier, maybe even F tier. Her course is a metric crap ton of busy work that teaches you very little about real software development. Your experience in the class will depend heavily on your ability to BS your work, gaslight her into leaving you alone, and convince her that you’re doing everything well since she knows very little about programming.\n\nI’d also move Murgolo down to C tier. Apparently his 343 has gotten more strict, so it’s no longer the free A it used to be (but still leagues better than Link), and he enabled a 491 student to treat their group terribly with pretty much no consequences.\n\nAnd since I missed him the first time around - Addington in D tier. You learn very little from his 378. My semester, he gave a ton of busy work with no meaningful learning outcomes, and spent a solid chunk of the semester teaching quantum computing concepts (and not even the exciting, interesting ones!) instead of actually addressing cybersecurity fundamentals. The course was a mixed bag in terms of difficulty and seems to have become more challenging over the last few semesters.",
+        "score": 1,
+        "created_utc": 1769036937.0,
+        "depth": 1
+      },
+      {
+        "author": "theblueace_",
+        "body": "Goldstein is a great prof for 328, his lectures are really intereactive and if you have ANY questions he'll be more than happy to answer them. Quizzes are online and take at home. Idk about the others tho",
+        "score": 2,
+        "created_utc": 1760770946.0,
+        "depth": 0
+      },
+      {
+        "author": "dominiFamily",
+        "body": "But are the quizzes proctored?\n\n",
+        "score": 1,
+        "created_utc": 1780943068.0,
+        "depth": 1
+      },
+      {
+        "author": "theblueace_",
+        "body": "none of the quizzes or exams are proctored.",
+        "score": 1,
+        "created_utc": 1780946007.0,
+        "depth": 2
+      },
+      {
+        "author": "dominiFamily",
+        "body": "Do we have cumulative final exam?\n\n",
+        "score": 1,
+        "created_utc": 1780954362.0,
+        "depth": 3
+      },
+      {
+        "author": "theblueace_",
+        "body": "he gives a 100(?) question practice exam online (ungraded, 1-2 weeks in advance) and pulls a certain number of the questions--1:1--from that practice exam (maybe like 20-30?) and puts it on the exam, and yes it seems cumulative.",
+        "score": 1,
+        "created_utc": 1780957579.0,
+        "depth": 4
+      },
+      {
+        "author": "SeparateAd588",
+        "body": "u cant go wrong w 328, for 326 take my boy hailu and do whatever u can do avoid giacalone",
+        "score": 1,
+        "created_utc": 1760593644.0,
+        "depth": 0
+      },
+      {
+        "author": "dominiFamily",
+        "body": "I was actually curious about Hailu Xu. because I've seen mixed reviews about him. Some students seem to really like him, while others have complaints, so I'm not exactly sure what his teaching style is like.When you took his class, what was the workload like? Were there a lot of assignments, quizzes, or exams? Did you feel the course was manageable? I'm just trying to get a better idea of what to expect before I register. Thanks again!",
+        "score": 1,
+        "created_utc": 1780943476.0,
+        "depth": 1
+      },
+      {
+        "author": "SeparateAd588",
+        "body": "i think hes changed since ive taken him but its pretty standard like some minor quizzes, 2 or 3 majors exams w mcq and frqs, and a couple coding assignments. it was pretty manageable, the course content is difficult and its hard to understand him at times so just study up a little. hes also just a rly nice and chill guy lol",
+        "score": 1,
+        "created_utc": 1780943951.0,
+        "depth": 2
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.reddit.com/r/CSULB/comments/1ejytkq/why_is_the_cs_program_bad/",
+    "post": {
+      "title": "Why Is the CS Program Bad? ",
+      "author": "Twiz_nano",
+      "selftext": "I’m a student who is looking to potentially transfer this spring. \n\nI see lots of people saying the CS program is bad and that there are professors who are gems! \n\nHowever, no one is really saying why it’s bad. \n\nSo why is it bad?",
+      "score": 20,
+      "created_utc": 1722787717.0
+    },
+    "comments": [
+      {
+        "author": "safespace999",
+        "body": "Most of the common complaint’s you will see on this subreddit for CS are based three things: professors and how they treat students, class availability (some mandatory classes have very limited seating) department seems to be in disarray.\n\nI haven’t seen much discussion on the quality of the program. I will let CS majors take that up.",
+        "score": 21,
+        "created_utc": 1722791640.0,
+        "depth": 0
+      },
+      {
+        "author": "Honey-Scooters",
+        "body": "I have 3 friends who are all CS majors and these are all 100% their complaints at all times. Not a CS major, so can’t totally speak on it, but these are all things I’ve heard",
+        "score": 10,
+        "created_utc": 1722799743.0,
+        "depth": 1
+      },
+      {
+        "author": "ETPhoneTheHomiess",
+        "body": "My friend who just graduated with cs degree said the professors often spoke poor English or had accents that made them hard to understand.",
+        "score": 19,
+        "created_utc": 1722797070.0,
+        "depth": 0
+      },
+      {
+        "author": "redxgamer698",
+        "body": "Ngl i think that is in nearly every university cause i got one with a hard accent but she teaches well so its got its pros and cons . But i dont even attend this school so i wouldnt really know your guys problems .",
+        "score": 1,
+        "created_utc": 1759392603.0,
+        "depth": 1
+      },
+      {
+        "author": "YANGyang711",
+        "body": "Hello! I’m taking cs. This is from the perspective of a student who has no prior experience about computer science. I got three semesters left. \n\n1. It is not good for beginners or someone who is completely new to programming aka me. I struggled a lot with the concepts and the professors expect the students to already know the basics. Some professors switch between Python and C++ language without actually teaching you what it does or how to get the codes to work and I spent endless nights learning new languages just to get projects done. \n\n2. My last semester was just projects, homework, and quizzes due by the end of the week and an exam every month. I was stressing out of my mind because it was like that for 4/5 of my classes. Learning a bunch of different concepts every week, especially as someone as new to the concepts as me was a struggle but that was how I felt personally. Others might think that’s the norm but at one point I stopped going to office hours because my professors do not help. I wanted to take an educational leave after that semester but decided not to. \n\n3. Yes the professors. Sigh. Idk where to start. My professors were the YouTube videos and sources I found on Google. That’s it. Some professors don’t even show up for their office hours. Out of the three years I had in CS, I can only remember 2 professors that helped me a lot and regain my confidence in school. \n\n4. On a good note, students are always willing to help. I don’t know about the other classes, but my classes had a good amount of students who were willing to look at my codes, help fix my mistakes, and explain the concepts easier to me. I wanna thank all of them because they were genuinely so kind and didn’t make me feel like an idiot. \n\n5. The CS program is for data organization, cyber security, and machine learning. If you are going there for video games development or animation, I’d recommend majoring in Art, but even that is an issue on its own. Still, Art is better than CS in that case. \n\n6. There will be classes that require you to download specific apps for coding. It can get complicated. One time a program didn’t work with my MacBook despite following the installation instructions and when I asked my professors for help, they told me “You have to figure it out or else you can’t do the homework” 🧍‍♀️(is that not why I’m asking you…?) But ig as a student it is my responsibility. I had to drop the class and take it next semester with another professor. Besides that, I figured if the app doesn’t work, I would just use an app I’m comfortable with coding on and submit my projects (if it works it works). \n\nThis is all my personal experiences. A reminder: Every field has their pros and cons so my take of the CS program could be the same as just any other student’s take of their program. I’m having a tough time and rn I’m at the stage where I don’t even know if I’m going to use the degree, because to be honest, I’m still struggling even tho I’m trying to code during the summer.",
+        "score": 15,
+        "created_utc": 1722806151.0,
+        "depth": 0
+      },
+      {
+        "author": "bigshotfancypants",
+        "body": "I graduated back in 2018 and have been working as a Software Engineer for the past 5 years, so I can add some perspective from a former student now working in the industry.  In addition to what others have mentioned  I didn't realize how outdated some of the teaching material was until I got my first Software Engineering job.  \n\nFor example, in 2018/2019, we were taught traditional SQL in our databases class, but I don't think we learned anything practical.  We were always working with local sqlite databases and never learned about other database paradigms or tools like NoSql, Postgres, Redis, etc., and we never learned about cloud databases like AWS, GCP, etc. Also, our Operating Systems &amp; Computer Architecture classes focused on 32 bit architecture and MIPS assembly, when they could be teaching about newer architecture, cloud computing, etc.  We also never learned much about Linux or how to use it, and there was never any classes that formally taught us how to use git.  We were all left to learn it by ourselves, and I know a decent amount of students never learned it by the time they graduated.  I know one Senior Project group was using Google Drive for source control, and their advisor didn't have anything to say anything about that...\n\nI could go on, but basically I don't think CSULB's CECS department did a good job preparing anyone to become a software or computer engineer",
+        "score": 10,
+        "created_utc": 1722810599.0,
+        "depth": 0
+      },
+      {
+        "author": "Iceclimber9765",
+        "body": "I’m currently doing CS. They updated the curriculum.  Database classes now teach postgresql, in addition to mongodb. (Cecs 323) The focus on 32-bit architecture (mips) is mostly because newer forms of architecture will overwhelm cs students because they would have to dish out more material in a short time frame; also that leans more to Computer Engineering/Advanced Computer Architecture (src: Hossein Sayadi) In addition to this, there is a class that replaced 282: Advanced C++, which is called 325: System Programming that teaches you C++, in addition to teaching you vim and Linux commands.  There are also things called pathways in which students choose areas like Cybersecurity, Ai, or Software Dev, in which students will exclusively take classes that specialize in those pathways.",
+        "score": 4,
+        "created_utc": 1722839561.0,
+        "depth": 1
+      },
+      {
+        "author": "[deleted]",
+        "body": "From personal experience, there is such limited class slots and time availability, if you want to have early morning classes some of the courses don’t even offer them. So you are forced to take the class mid-day or even late evening. The professors tend to have heavy accents or soft spoken. Don’t get me wrong though, there are a few great professors that still love what they do! Other than that, it’s not too bad.",
+        "score": 8,
+        "created_utc": 1722803984.0,
+        "depth": 0
+      },
+      {
+        "author": "Talonss1610",
+        "body": "I am a 2022 cs graduate. My experience varied. Mostly positive but you will need more than just classes to get a job these days. I enjoyed my time in the program. Went to hachkatons, programming competitions, clubs, etc. You will have a good experience if you do your homework, study for the tests and make friends. Just remember to study hard for 228, 328, and any classes at the 400 level. Good luck.",
+        "score": 3,
+        "created_utc": 1722838793.0,
+        "depth": 0
+      },
+      {
+        "author": "Jushi__",
+        "body": "1000% I agree! It's the work you put in!",
+        "score": 1,
+        "created_utc": 1722839190.0,
+        "depth": 1
+      },
+      {
+        "author": "Twiz_nano",
+        "body": "i have already taken discrete mathematics 1 and 2 at my community college will i still need to take 228 at CSULB?",
+        "score": 1,
+        "created_utc": 1722907166.0,
+        "depth": 1
+      },
+      {
+        "author": "Talonss1610",
+        "body": "I cannot say anything certainly but you can check with the advisor for the answer.",
+        "score": 2,
+        "created_utc": 1722909637.0,
+        "depth": 2
+      },
+      {
+        "author": "Jushi__",
+        "body": "As a current CS student who has transferred here, I believe that the CS Program has some weaknesses but it isn't as awful as everyone says it is. Call me a devil's advocate, but I don't find it as awful. Yes, it has its flaws, but I think it's also what you put into your degree and experience overall. \n\nOne comment mentioned using outdated materials, and I fully back that sentiment. For example, CECS 341 (Computer Arch. and Organization) felt like a waste of time... The teacher was fine, the materials were okay. It was just annoying seeing the computer science advisors force transfer students to take the same exact class that many had already taken to get here. In addition, the computer science advisors can be hard to reach so that is an issue in itself, especially if you're the first in your family to attend college.\n\nClasses are very hard to get enrolled into, especially if you need to graduate soon (my friend needed one more class to graduate and almost had to take an additional semester just to get her diploma... Luckily she was fine but!!! Common experience from what I've heard) \n\nThe main issue is that there's too many students majoring in CS and not enough teachers teaching... But I think the CS department is slowly changing for the better. There are truly passionate professors out there teaching their craft, and they are using the latest materials. I used Postgres, SQL, and MongoDB in my databases classes, and I feel like I've learned a lot. We used more current technologies so I don't really see merit in the idea that everything we use is outdated. plus, as I am registering for classes now, there's a lot of new names teaching that came from other distinguished schools (my source: rate my professor haha) \n\nThe self taught thing is true though too... I find myself watching YouTube videos because some of our CS professors aren't the best :')",
+        "score": 3,
+        "created_utc": 1722839076.0,
+        "depth": 0
+      },
+      {
+        "author": "Iceclimber9765",
+        "body": "Currently taking CS. I’d give it a 7.5/10, at least for now. They are currently attempting to improve the curriculum by introducing more industry relevant content in courses. The school is introducing a pathway system in which students take classes in areas they want to specialize ( Cybersecurity, Ai, Software dev). I feel like it’s a good deal for what you get, compared to other schools. That being said, some professors can be terrible. Some can’t even speak English, or are so old that they forget how to run a basic python script in an IDE; granted sometimes you get those kind of teachers at different schools too. Most of them are chill and are eager to help you learn and grow as a student. However, if you manage to avoid them, or just grind through those classes, you will have a mostly great experience overall.",
+        "score": 2,
+        "created_utc": 1722840025.0,
+        "depth": 0
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.reddit.com/r/CSULB/comments/14kuu85/quality_of_computer_science_education_in_csulb/",
+    "post": {
+      "title": "Quality of computer science education in CSULB",
+      "author": "Das_Bibble",
+      "selftext": "Looking through this subreddit's posts, I have not seen a single positive statement regarding computer science in CSULB. I got off the waitlist for CSULB CS, but I'm not sure if I should ditch community college to go to CSULB for CS. Is CS at CSULB as terrible as this subreddit make it out to be? The most relevant posts I saw were about a year old so I'm trying to get a fresher opinion.",
+      "score": 14,
+      "created_utc": 1687912961.0
+    },
+    "comments": [
+      {
+        "author": "safespace999",
+        "body": "Think about it this way. Industry experts make wary more in the field than teaching so why would their be any incentive to get good talent to teach? It’s a problem",
+        "score": 17,
+        "created_utc": 1687920264.0,
+        "depth": 0
+      },
+      {
+        "author": "tkdkhk12635",
+        "body": "Pretty much every CS BS program around here is shit quality. Where you go doesn't matter unless you're going to a top tier school. Almost nothing you learn in class will be used in the workplace and you'll still have to self-teach, fight for internships, and start from the bottom. You have to leave community college eventually; just go wherever is cheapest to get that BS/piece of paper.",
+        "score": 13,
+        "created_utc": 1687917684.0,
+        "depth": 0
+      },
+      {
+        "author": "Das_Bibble",
+        "body": "Is there a certain quality of shittiness that distinguishes CSULB from other schools in the area though?",
+        "score": 2,
+        "created_utc": 1687970938.0,
+        "depth": 1
+      },
+      {
+        "author": "tkdkhk12635",
+        "body": "Nah. From what I've heard, they're all pretty much equal level of shittiness.",
+        "score": 3,
+        "created_utc": 1687974262.0,
+        "depth": 2
+      },
+      {
+        "author": "Bacleo",
+        "body": "This.   \n  \nSchool provides you with a network of peers to guide you through different stages. Besides this, going through tough classes builds your overall problem solving skills and intelligence. Most concepts learned in class are useless in the real world, even the ones that aren't, you still have to learn how to APPLY to the real world as you don't do this in class. CSULB has a easier curriculum which allows me to spend more time applying to internships and working on projects outside of school.",
+        "score": 1,
+        "created_utc": 1715214704.0,
+        "depth": 1
+      },
+      {
+        "author": "Existing_Mushroom392",
+        "body": "(Currently a senior at CSULB for CS, also military vet that has work experience) It is the outdated curriculum that is the major issue in my opinion.  Don’t listen to people complaining about the professors, most people are hella lazy and do the bare minimum.  This program will teach you about things that aren’t relevant anymore in terms of hardware and software.  You will learn a lot, but it doesn’t really translate if you just wanna be a front end dev.  This program will mostly teach you how to learn efficiently and commit to something, which is necessary in the work field.  Also working with others and building a good network which will help you get jobs, those traits are incredibly useful.  As a whole the experience will set you up for success but you’re gonna have to find your own niche in the CS field and work on that, building a portfolio with projects on your own to help you stand out.",
+        "score": 10,
+        "created_utc": 1687976169.0,
+        "depth": 0
+      },
+      {
+        "author": "Iceclimber9765",
+        "body": "They are changing it for the class of 2026 and so on.",
+        "score": 1,
+        "created_utc": 1688066359.0,
+        "depth": 1
+      },
+      {
+        "author": "TransportationNo3749",
+        "body": "Changing what? The curriculum?",
+        "score": 2,
+        "created_utc": 1688517110.0,
+        "depth": 2
+      },
+      {
+        "author": "Iceclimber9765",
+        "body": "Yeah",
+        "score": 1,
+        "created_utc": 1690917400.0,
+        "depth": 3
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "score": 8,
+        "created_utc": 1687978135.0,
+        "depth": 0
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "score": 1,
+        "created_utc": 1688066612.0,
+        "depth": 1
+      },
+      {
+        "author": "ThisKid713",
+        "body": "Personally, I think that there is decent quality to the education. HOWEVER the experience is *really* shit. For example, they teach Python as the intro to coding class language and in the following semesters you will use Python. In addition to python, you will also take a class that requires the use of C++ (and if your schedule turns out like mine) at the same time you are taking classes that use python. So it’s really easy to get dinged in either class for using syntax in the wrong language. \n\nThat and my biggest thing right now is that they physically do not have the class sizes or teachers to support the amount of students they have. This causes *very* limited schedule options and odd class times (such as Saturday afternoon). This coming semester I am basically forced to take a specific major elective (the classes that you *should* have an option to pick and choose which subjects to learn about) because my schedule did not allow me to take any of the other ones I am genuinely interested in.\n\nWorst of all, you will probably have to delay taking classes because you literally are unable to sign up for said classes due to capacity limitations. This has happened to me numerous times even as a CE major, which is really shitty since they literally give us a guideline to follow in terms of which classes to take on which semesters, yet prevent students from following that guideline to no fault of the students.",
+        "score": 3,
+        "created_utc": 1687922271.0,
+        "depth": 0
+      },
+      {
+        "author": "LightningNissan",
+        "body": "I am not able to sign up for my last class I need to take to graduate because they were all full before my registration date. Luckily, I emailed the professor and he said there is a good chance he will let me in once the schedules are all finalized. Trying to register for classes is a pain in the ass like you said.",
+        "score": 3,
+        "created_utc": 1687937744.0,
+        "depth": 1
+      },
+      {
+        "author": "SVilla415",
+        "body": "Save your money and go to community college, the education will be identical or maybe better. You can make a career in tech with an Associates or certificate from community colleges. The BS is great to have but not necessary. I would still def recommend getting the BS but you got options.\n\n\nBut to answer your question about CS at CSULB I think it’s getting slightly better. We recently got an update to Databases led by prof Terrell and I found that class very informative and useful. Meanwhile we got other professors with totally bogus electives lmfao.\n\nI feel like CSULB does offer a lot in extracurriculars. The CS and engineering clubs are very active so that’s a plus. Plenty of opportunities to get involved on campus outside of CS/STEM too.",
+        "score": 3,
+        "created_utc": 1687988059.0,
+        "depth": 0
+      },
+      {
+        "author": "Das_Bibble",
+        "body": "I do plan on going to CC and then transferring for a BS. What are the most hateable parts of CSULB's CS program in your opinion?",
+        "score": 1,
+        "created_utc": 1687991455.0,
+        "depth": 1
+      },
+      {
+        "author": "SVilla415",
+        "body": "A lot of people despised the CECS 328 situation when Goldstein was teaching it. Thankfully I took that class before that happened and I think that scandal has been fixed. Most professors aren’t good teachers so that sucks. But we do have some great ones: Neal Terrel and Bardia Moshrefnoory in my experience have been the best with a couple others that have since left teaching at CSULB. The material usually is outdated so that sucks but that’s just academia for you.\n\nThe college of engineering also has its issues. For CS, the advisors suck. Don’t expect them to answer any emails or any of your questions. Classes are super impacted so unless you have priority registration you won’t get the classes you want.\n\nMost people are commuters so people love to complain that they’re lonely, that they’re missing out on the “college experience” and that it sucks to go to school but a real easy fix to that is get involved in campus.\n\nOverall I would rate CSULB like a 7/10 not horrible but could be better.",
+        "score": 1,
+        "created_utc": 1688009022.0,
+        "depth": 2
+      },
+      {
+        "author": "Cute-Abalone1542",
+        "body": "Cs stinks but it’s also pretty binary man. Like either you can code and troubleshoot code or you can’t. You’ll probably be able to after 4 years anywhere so it truly doesn’t matter. Most jobs will onboard you to their systems anyway so go where you’re gonna have the best time or save the most money.",
+        "score": 2,
+        "created_utc": 1687981992.0,
+        "depth": 0
+      },
+      {
+        "author": "Shawnj2",
+        "body": "I think the CSULB CS program was worth it for me because I found value in the stuff outside of the actual degree classes like clubs mostly aimed at non software majors but which still needed software and did those. \n\nThe actual CS curriculum is quite shit though, there are some very good professors but overall the program isn't that great IMO\n\nGoing to a CC and transferring to a UC or better cal state isn't a bad idea if you have the ability to do so",
+        "score": 4,
+        "created_utc": 1687920952.0,
+        "depth": 0
+      },
+      {
+        "author": "RedBeardRPG",
+        "body": "Interesting that so many current students in CS and other engineering disciplines at CSULB agree that it’s shitty but don’t do anything to change their situation. \n\n“It sucks but I guess I’ll just stick it out for 5+ years” 🤷‍♂️\n\nStudents and parents: You have more power than you think. Write an angry, yet professional, email to the President, Provost, and Vice Provosts and state specific grievances that have impacted your experience. You might be surprised in the response you get and how quickly you get it. This goes for students in any discipline. \n\nIf your issues have merit (class availability especially), make some noise about it.",
+        "score": 1,
+        "created_utc": 1687983366.0,
+        "depth": 0
+      },
+      {
+        "author": "[deleted]",
+        "body": "Sucks ass.",
+        "score": 1,
+        "created_utc": 1687942473.0,
+        "depth": 0
+      },
+      {
+        "author": "jkru396",
+        "body": "Is CPP an option, they seem to have a decent program",
+        "score": 1,
+        "created_utc": 1687943340.0,
+        "depth": 0
+      },
+      {
+        "author": "SurpriseMFK29",
+        "body": "I am currently a CS student at CSULB. From my point of view, CS program at CSULb is very shitty.",
+        "score": 1,
+        "created_utc": 1687982009.0,
+        "depth": 0
+      },
+      {
+        "author": "Das_Bibble",
+        "body": "What makes it very shitty?",
+        "score": 2,
+        "created_utc": 1687991272.0,
+        "depth": 1
+      },
+      {
+        "author": "[deleted]",
+        "body": "There are differences... https://imgur.com/a/C04EJ2O",
+        "score": 1,
+        "created_utc": 1688009353.0,
+        "depth": 0
+      },
+      {
+        "author": "Existing_Mushroom392",
+        "body": "https://m.youtube.com/watch?v=4SiFgB1lGxw\n\nMaybe this will make you feel better, seems like all universities teach outdated or useless material :,) even the “best” ones",
+        "score": 1,
+        "created_utc": 1688057340.0,
+        "depth": 0
+      },
+      {
+        "author": "[deleted]",
+        "body": "Just do wgu homie",
+        "score": 1,
+        "created_utc": 1688182432.0,
+        "depth": 0
+      },
+      {
+        "author": "lifeforalife1",
+        "body": "Have literally been thinking about this, I haven't even started yet but I see so much bad stuff about the program here at CSULB and have been debating to probably transfer after one or two years to WGU, not sure though.\n\nYou think its worth it to stay?",
+        "score": 1,
+        "created_utc": 1691906462.0,
+        "depth": 1
+      },
+      {
+        "author": "[deleted]",
+        "body": "It’s almost the same in terms of tuition and it’s on your own pace. I would say just take fundamental classes ( Java and data structure/Algorithms / GE )and dip lmao. I would hate doing all the calc and physics classes when you can just do all SE courses at wgu.",
+        "score": 1,
+        "created_utc": 1691906639.0,
+        "depth": 2
+      },
+      {
+        "author": "lifeforalife1",
+        "body": "I am assuming that is the route you ended up taking? If so thanks very much for the advice. \n\nBut yeah i’ve seen a lot of good about WGU and that it’s at your own pace because i hear the CS program here, most students end up literally having to learn it all on their own because the teachers suck ass at teaching(so i’ve heard.)  \n\nWhat year did you end up transferring?",
+        "score": 1,
+        "created_utc": 1691907261.0,
+        "depth": 3
+      },
+      {
+        "author": "[deleted]",
+        "body": "Honestly if you are an incoming freshman, just do lbcc then transfer. Lbcc has classes that you need backend and front. They have an AS in web dev that you can transfer to wgu. Once you transfer you can focus on backend more since the web dev degree from lbcc covers front end ( html/css , JavaScript, php, databases, JavaScript frameworks). For electives just take Java and data structures and algorithms) you can take python if you want.",
+        "score": 1,
+        "created_utc": 1691907603.0,
+        "depth": 4
+      },
+      {
+        "author": "[deleted]",
+        "body": "I was never a fan of calc, physic, other cs courses that don’t relate to SE. wgu is the move Fr. But building connections when you are in person is crucial.",
+        "score": 1,
+        "created_utc": 1691907748.0,
+        "depth": 5
+      },
+      {
+        "author": "lifeforalife1",
+        "body": "I am cooked though bro, because i already started and was already enrolled into my CSU so i could prob stick through it for 2 years and then do WGU. \nWhat do you think?",
+        "score": 1,
+        "created_utc": 1693437710.0,
+        "depth": 5
+      }
+    ]
+  }
+]
