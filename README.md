@@ -43,15 +43,19 @@ Student reviews of Computer Science professors at California State University, L
 **Sample chunks:**
 
 1. **RMP — Neal Terrel, CECS449** (source: ratemyprofessors.com/professor/1810660)
+
    > `[RMP review for Neal Terrel — CECS449 | Quality: 5/5, Difficulty: 3/5] 449 was a challenging course, but it is also one of the most engaging classes I've taken throughout my entire time at college. Professor Terrell provides all the resources to be successful and assigns the topics into meaningful, hands-on projects. Professor Terrell cares for his students & its been a pleasure being in his class. MY GOAT`
 
 2. **RMP — Frank Murgolo, CECS323** (source: ratemyprofessors.com/professor/464926)
+
    > `[RMP review for Frank Murgolo — CECS323 | Quality: 3/5, Difficulty: 2/5] No homework just quizzes. He just doesn't seem to care much. His quizzes are made through chatgpt. Easy class but you wont learn much`
 
 3. **RMP — Susan Nachawati, 174** (source: ratemyprofessors.com/professor/115586)
+
    > `[RMP review for Susan Nachawati — 174 | Quality: 1/5, Difficulty: 5/5] Nobody can understand her class`
 
 4. **Reddit post — r/CSULB** (source: reddit.com/r/CSULB/comments/1o7k69s)
+
    > `[Reddit post: "CSULB students: Which Computer Science professors do you recommend or not recommend"] I'm trying to plan my next semester and wanted to hear people's experiences with CS professors at CSULB. How's Professor Ehsan Yaghmaei? Would you recommend him or not? Also open to hearing which professors you think are good or bad for core CS classes in general (CECS 448, 328, 326, etc.). Thanks!`
 
 5. **Reddit comment — r/CSULB** (source: reddit.com/r/CSULB/comments/1o7k69s)
@@ -69,35 +73,35 @@ Student reviews of Computer Science professors at California State University, L
 
 **Query 1:** "How heavy is the workload for Neal Terrel's classes?"
 
-| Rank | Distance | Professor | Course | Chunk preview |
-|------|----------|-----------|--------|---------------|
-| 1 | 0.4551 | Neal Terrel | CECS328 | "Lectures are funny and informative. Workload is fairly modest, and while the tests are difficult he's not a harsh grader..." |
-| 2 | 0.4565 | Neal Terrel | CECS323 | "The lectures, HW, and projects prepare you for the exam. Nothing should be surprising if you put in the work..." |
-| 3 | 0.4567 | Neal Terrel | CECS323 | "This man is an A+ teacher and he expects as much as he gives. I had no trouble getting an A in his class because doing the homework..." |
-| 4 | 0.4577 | Neal Terrel | CECS475 | "Neal is goated. But if you're looking for an easy A, you HAVE to put in the effort. No curving. Required to PASS ALL projects..." |
-| 5 | 0.4775 | Neal Terrel | CECS282 | "Honestly, hands down one of the best professors I've ever taken..." |
+| Rank | Distance | Professor   | Course  | Chunk preview                                                                                                                            |
+| ---- | -------- | ----------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 0.4551   | Neal Terrel | CECS328 | "Lectures are funny and informative. Workload is fairly modest, and while the tests are difficult he's not a harsh grader..."            |
+| 2    | 0.4565   | Neal Terrel | CECS323 | "The lectures, HW, and projects prepare you for the exam. Nothing should be surprising if you put in the work..."                        |
+| 3    | 0.4567   | Neal Terrel | CECS323 | "This man is an A+ teacher and he expects as much as he gives. I had no trouble getting an A in his class because doing the homework..." |
+| 4    | 0.4577   | Neal Terrel | CECS475 | "Neal is goated. But if you're looking for an easy A, you HAVE to put in the effort. No curving. Required to PASS ALL projects..."       |
+| 5    | 0.4775   | Neal Terrel | CECS282 | "Honestly, hands down one of the best professors I've ever taken..."                                                                     |
 
-All 5 results are for the correct professor (Neal Terrel) across multiple courses, which is appropriate since the query asks about "his classes" in general. The chunks discuss workload, effort level, and grading — directly relevant to the question. Distances are all below 0.5, indicating good semantic similarity.
+All 5 results are for the correct professor (Neal Terrel) across multiple courses, which is appropriate since the query asks about "his classes" in general. The chunks discuss workload, effort level, and grading, directly relevant to the question. Distances are all below 0.5, indicating good semantic similarity.
 
 **Query 2:** "Is attendance mandatory for CECS 491B with Professor Frank Murgolo?"
 
-| Rank | Distance | Professor | Course | Chunk preview |
-|------|----------|-----------|--------|---------------|
-| 1 | 0.3965 | Frank Murgolo | CECS491B | "I took him for Senior Project. He's a very easy grader and passionate about student projects. We had daily check-ins..." |
-| 2 | 0.4017 | Frank Murgolo | CECS343 | "One of the easiest A's you can get. Everything is open note and open internet. He doesn't grade attendance..." |
-| 3 | 0.4046 | Frank Murgolo | CECS323 | "Great professor and an even better person. Very nice and very helpful..." |
+| Rank | Distance | Professor     | Course   | Chunk preview                                                                                                             |
+| ---- | -------- | ------------- | -------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 0.3965   | Frank Murgolo | CECS491B | "I took him for Senior Project. He's a very easy grader and passionate about student projects. We had daily check-ins..." |
+| 2    | 0.4017   | Frank Murgolo | CECS343  | "One of the easiest A's you can get. Everything is open note and open internet. He doesn't grade attendance..."           |
+| 3    | 0.4046   | Frank Murgolo | CECS323  | "Great professor and an even better person. Very nice and very helpful..."                                                |
 
-The top result is a CECS491B review for Murgolo — an exact match for course and professor. The second result mentions attendance policy for a different Murgolo course, which provides useful context. Distances are tighter (0.39–0.40) than the previous query, showing strong relevance.
+The top result is a CECS491B review for Murgolo, an exact match for course and professor. The second result mentions attendance policy for a different Murgolo course, which provides useful context. Distances are tighter (0.39–0.40) than the previous query, showing strong relevance.
 
 **Query 3:** "Which professor would you not recommend for CECS174 for a beginner programmer?"
 
-| Rank | Distance | Professor | Course | Chunk preview |
-|------|----------|-----------|--------|---------------|
-| 1 | 0.3648 | Neal Terrel | CECS174 | "Among everyone I've talked to about CECS professors, all agree that you should always take Neal Terrell..." |
-| 2 | 0.3922 | Steve Gold | CECS325 | "An amazing and very experienced professor..." |
-| 3 | 0.3975 | Neal Terrel | CECS174 | "He is really good at what he teaches and probably one of the better CECS professors..." |
-| 4 | 0.4012 | Steve Gold, Darin Goldstein | general | "Goldstein is a great prof for 328, his lectures are really interactive..." |
-| 5 | 0.4112 | Susan Nachawati | CECS100 | "She is okay at teaching. Her lectures can be a bit overwhelming at times..." |
+| Rank | Distance | Professor                   | Course  | Chunk preview                                                                                                |
+| ---- | -------- | --------------------------- | ------- | ------------------------------------------------------------------------------------------------------------ |
+| 1    | 0.3648   | Neal Terrel                 | CECS174 | "Among everyone I've talked to about CECS professors, all agree that you should always take Neal Terrell..." |
+| 2    | 0.3922   | Steve Gold                  | CECS325 | "An amazing and very experienced professor..."                                                               |
+| 3    | 0.3975   | Neal Terrel                 | CECS174 | "He is really good at what he teaches and probably one of the better CECS professors..."                     |
+| 4    | 0.4012   | Steve Gold, Darin Goldstein | general | "Goldstein is a great prof for 328, his lectures are really interactive..."                                  |
+| 5    | 0.4112   | Susan Nachawati             | CECS100 | "She is okay at teaching. Her lectures can be a bit overwhelming at times..."                                |
 
 ---
 
@@ -119,6 +123,7 @@ The top result is a CECS491B review for Murgolo — an exact match for course an
 > **A:** The workload for Neal Terrel's classes is generally considered moderate. Review [1] describes the workload as "fairly modest", while reviews [2], [3], and [5] suggest that the workload can be challenging, but manageable with effort. Review [3] mentions that doing the homework prepares students for tests, and review [5] notes that there is a lab every week, but the workload is still doable. Review [4] warns that an "easy A" requires effort, and review [8] mentions that projects only take a weekend to complete. Overall, the workload is not extremely heavy, but it does require consistent effort to keep up with the coursework.
 >
 > **Sources:**
+>
 > - [RMP — Neal Terrel](https://www.ratemyprofessors.com/professor/1810660)
 
 **Example response 2:**
@@ -128,6 +133,7 @@ The top result is a CECS491B review for Murgolo — an exact match for course an
 > **A:** According to review [1], attendance is mandatory for CECS 491B with Professor Frank Murgolo, but he is understanding if you miss class due to an emergency.
 >
 > **Sources:**
+>
 > - [RMP — Frank Murgolo](https://www.ratemyprofessors.com/professor/464926)
 > - [RMP — Neal Terrel](https://www.ratemyprofessors.com/professor/1810660)
 
@@ -195,7 +201,7 @@ Sources:
 
 ## Spec Reflection
 
-**One way the spec helped you during implementation:** The planning doc's chunking strategy — one review = one chunk with structured metadata prefixes — directly shaped the pipeline. Having decided upfront that each RMP review would be its own chunk with a `[RMP review for ... | Quality/Difficulty]` prefix meant the implementation was straightforward: iterate over ratings, prepend the prefix, and emit.
+**One way the spec helped you during implementation:** The planning doc's chunking strategy: one review = one chunk with structured metadata prefixes, directly shaped the pipeline. Having decided upfront that each RMP review would be its own chunk with a `[RMP review for ... | Quality/Difficulty]` prefix meant the implementation was straightforward: iterate over ratings, prepend the prefix, and emit.
 
 **One way your implementation diverged from the spec, and why:** The spec planned for top-k of 6–10, and the implementation settled on k=8. During testing, this turned out to be too small for some queries where the answer was buried in a lower-ranked chunk (e.g., the exam format question where the relevant chunk ranked 28th). The spec didn't anticipate that the embedding model would rank chunks by dominant theme rather than specific details, which is a gap that would have required hybrid search or a larger k to address.
 
@@ -207,7 +213,7 @@ Sources:
 
 - _What I gave the AI:_ I gave Claude my Chunking Strategy and Retrieval Approach sections from planning.md, along with the existing pipeline.py chunk format, and asked it to implement rag.py with embedding into ChromaDB, retrieval, and Groq-based generation.
 - _What it produced:_ A complete rag.py with functions for loading chunks, building a persistent ChromaDB vector store with cosine similarity, embedding with SentenceTransformer, retrieval with top-k, and a full ask() pipeline that retrieves chunks, generates an answer via Groq, and programmatically attaches deduplicated source links.
-- _What I changed or overrode:_ I adjusted the system prompt's refusal threshold — the original prompt was too conservative, telling the LLM to refuse when it didn't have "enough" information, which caused it to refuse even when relevant reviews were present. I changed it to only refuse when NONE of the reviews address the question.
+- _What I changed or overrode:_ I adjusted the system prompt's refusal threshold, because the original prompt was too conservative, telling the LLM to refuse when it didn't have "enough" information, which caused it to refuse even when relevant reviews were present. I changed it to only refuse when NONE of the reviews address the question.
 
 **Instance 2**
 
