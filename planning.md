@@ -80,7 +80,7 @@ Latency vs. quality: bigger models are slower and (for APIs) add network round-t
 | --- | --------------------------------------------------------------------------------- | -------------------------- |
 | 1   | Are Prof. Neal Terrel's exams multiple-choice or free-response in CECS 323?       | Free response              |
 | 2   | Is attendance mandtory for CECS 491B with Professor Frank Murgolo?                | Yes                        |
-| 3   | Which professor would you not recommend for CECS174 with for beginner programmer? | Susan Nachawati            |
+| 3   | Which professor would you not recommend for CECS174 with for beginner programmer? | Neal Terrell               |
 | 4   | How heavy is the workload for Neal Terrel's classes?                              | moderate                   |
 | 5   | How difficult is Neal Terrel's 491B class?                                        | He doesnt teach this class |
 
